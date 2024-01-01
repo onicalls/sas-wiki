@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksas_wiki=self.webpackChunksas_wiki||[]).push([[950],{9459:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/sas-wiki/blog/tags/docusaurus","allTagsPath":"/sas-wiki/blog/tags","count":4,"unlisted":false}')}}]);
