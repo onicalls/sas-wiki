@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksas_wiki=self.webpackChunksas_wiki||[]).push([[123],{3158:s=>{s.exports=JSON.parse('{"permalink":"/sas-wiki/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

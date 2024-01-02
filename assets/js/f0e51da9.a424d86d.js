@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksas_wiki=self.webpackChunksas_wiki||[]).push([[957],{7828:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/sas-wiki/blog/tags/hola","allTagsPath":"/sas-wiki/blog/tags","count":1,"unlisted":false}')}}]);
