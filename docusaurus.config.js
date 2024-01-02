@@ -13,16 +13,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://onicalls.github.io/',
+  url: 'https://onicalls.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/sas-wiki/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'onicalls', // Usually your GitHub org/user name.
   projectName: 'sas-wiki', // Usually your repo name.
-  deploymentBranch: 'deployment', // Deployment branch.
+  deploymentBranch: 'gh-pages', // Deployment branch.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
