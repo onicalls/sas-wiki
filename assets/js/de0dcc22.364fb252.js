@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksas_wiki=self.webpackChunksas_wiki||[]).push([[189],{7338:s=>{s.exports=JSON.parse('{"label":"sas","permalink":"/parches/tags/sas","allTagsPath":"/parches/tags","count":1,"unlisted":false}')}}]);

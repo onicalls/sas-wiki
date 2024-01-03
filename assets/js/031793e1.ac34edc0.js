@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksas_wiki=self.webpackChunksas_wiki||[]).push([[633],{2511:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/blog/tags/facebook","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

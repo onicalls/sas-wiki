@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://onicalls.github.io/parches</id>
+    <title>Scream and Survive: 1.5 Blog</title>
+    <updated>2024-01-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://onicalls.github.io/parches"/>
+    <subtitle>Scream and Survive: 1.5 Blog</subtitle>
+    <icon>https://onicalls.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Parche 1.0]]></title>
+        <id>https://onicalls.github.io/parches/parche-1</id>
+        <link href="https://onicalls.github.io/parches/parche-1"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parche de ejemplo, luego se modificará.]]></summary>
+        <content type="html"><![CDATA[<p>Parche de ejemplo, luego se modificará.</p>]]></content>
+        <author>
+            <name>Onicalls</name>
+            <uri>https://github.com/endiliey</uri>
+        </author>
+        <category label="sas" term="sas"/>
+    </entry>
+</feed>
