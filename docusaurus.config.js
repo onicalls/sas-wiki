@@ -78,7 +78,6 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/parches', label: 'Parches', position: 'left'},
-          {to: '/tienda', label: 'Tienda', position: 'left'},
           {
             href: 'https://ds.sascraft.club/',
             label: 'Discord',
@@ -94,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Configuración',
-                to: '/docs/category/cómo-entrar',
+                to: '/docs/intro',
               },
             ],
           },
