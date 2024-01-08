@@ -6,7 +6,7 @@ function YouTubeVideo({ videoId }) {
     height: '390',
     width: '640',
     playerVars: {
-      autoplay: 1,
+      autoplay: 0,
     },
   };
 
