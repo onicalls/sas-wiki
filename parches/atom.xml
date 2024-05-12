@@ -8,56 +8,12 @@
     <subtitle>Scream and Survive: 1.5 Blog</subtitle>
     <icon>https://onicalls.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Parche 1]]></title>
+        <title type="html"><![CDATA[Parche 1.0]]></title>
         <id>https://onicalls.github.io/parches/parche-1</id>
         <link href="https://onicalls.github.io/parches/parche-1"/>
         <updated>2024-01-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cambios en Towny:]]></summary>
-        <content type="html"><![CDATA[<p><strong>Cambios en Towny:</strong></p>
-<ul>
-<li>Ahora las towns son gratis. Tampoco hay manteción diaria, ni hay cobro por claimear.</li>
-<li>Para crear una town usa /town create NOMBRE. Para eliminarla, usa /town disband. El resto de comandos son iguales.</li>
-<li>Para claimear más terreno ya no se necesita invitar jugadores, a cambio, se subirán de nivel las towns metiendo dinero en el banco.</li>
-</ul>
-<p><strong>Fórmulas:</strong></p>
-<ul>
-<li>Nivel(x) = 2000 VM*x</li>
-<li>Claim(x) = 6 + 6*(x-1)</li>
-<li>Amigo(x) = 5 + 5*(x-1)</li>
-</ul>
-<p><strong>Advertencia:</strong></p>
-<ul>
-<li>Los que se vean sorprendidos usando exploits nuevos o robando towns que aun no han transicionado al nuevo sistema se irán banneados por 1 semana y se les quitará los objetos robados.</li>
-</ul>
-<p><strong>Cambios en el nether:</strong></p>
-<ul>
-<li>Todos los mobs han bajado su daño de 12 a 8.</li>
-<li>Todos los mobs han bajado su probabilidad de aparición.</li>
-</ul>
-<p><strong>Cambios en el gacha</strong></p>
-<ul>
-<li>Se han eliminado los libros de encantamientos especiales por incompatibilidad.</li>
-<li>Se ha agregado nuevas recompensas en el gacha terreste, incluyendo la velocidad de samurai, la katana y el guante de golem.</li>
-</ul>
-<p><strong>Sistema de ordenamiento de cofres</strong></p>
-<ul>
-<li>Pronto subiré un video en la Wiki enseñando a ordenar sus cofres de manera automática, así que atentos a <a href="https://sascraft.club/" target="_blank" rel="noopener noreferrer">https://sascraft.club/</a></li>
-<li>Requerirá Ingeniería 3.</li>
-</ul>
-<p><strong>Nuevos muebles</strong></p>
-<ul>
-<li>En la máquina de ingeniería 2 podrán obtener muchos objetos decorativos a través de material reciclado.</li>
-</ul>
-<p><strong>Cambios en los jefes</strong></p>
-<ul>
-<li>Se han bajado un 20% del daño a los minijefes de la Tierra.</li>
-<li>Ahora los minijefes tienen la habilidad de dirigirse a los proyectiles.</li>
-<li>Ahora tienes un 20% de probabilidad de debilitar a tu enemigo mediante golpes críticos.</li>
-</ul>
-<p><strong>Mesa de encantamientos</strong></p>
-<ul>
-<li>Ahora puedes colocar las librerías hasta 10 bloques más lejos del centro y los contará igual.</li>
-</ul>]]></content>
+        <summary type="html"><![CDATA[Parche de ejemplo, luego se modificará.]]></summary>
+        <content type="html"><![CDATA[<p>Parche de ejemplo, luego se modificará.</p>]]></content>
         <author>
             <name>Onicalls</name>
             <uri>https://github.com/endiliey</uri>
